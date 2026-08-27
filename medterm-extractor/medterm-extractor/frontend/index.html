@@ -10,7 +10,7 @@
 
   <header class="topbar">
     <div class="brand">
-      <span class="brand-mark">AC</span>
+      <img class="brand-mark" src="logoo.png" alt="Medical Term Extractor logo" />
       <div class="brand-text">
         <span class="brand-title">Medical Term Extractor</span>
         <span class="brand-sub">Aho–Corasick for handwritten prescriptions</span>
@@ -18,15 +18,17 @@
     </div>
 
     <nav class="mode-switch" role="tablist" aria-label="Algorithm mode">
-      <button class="mode-btn active" data-mode="original" role="tab" aria-selected="true">
-        <span class="mode-dot"></span>
-        Baseline Algorithm
-      </button>
-      <button class="mode-btn" data-mode="enhanced" role="tab" aria-selected="false">
-        <span class="mode-dot"></span>
-        Enhanced Algorithm
-      </button>
-      <span class="mode-thumb" aria-hidden="true"></span>
+      <div class="mode-toggle">
+        <button class="mode-btn active" data-mode="original" role="tab" aria-selected="true">
+          <span class="mode-dot"></span>
+          Baseline Algorithm
+        </button>
+        <button class="mode-btn" data-mode="enhanced" role="tab" aria-selected="false">
+          <span class="mode-dot"></span>
+          Enhanced Algorithm
+        </button>
+        <span class="mode-thumb" aria-hidden="true"></span>
+      </div>
 
       <button class="hamburger" id="hamburgerBtn" aria-label="Toggle menu">
       <span></span>
