@@ -224,3 +224,97 @@ REFERRAL,Treatment,
 1X A DAY,Frequency,
 2X A DAY,Frequency,
 4X A DAY,Frequency,
+1-1-1,Abbreviation,Morning-Afternoon-Night; take 1 tablet three times a day
+QD,Abbreviation,Once daily
+BD,Abbreviation,Twice daily
+TDS,Abbreviation,Three times daily
+QDS,Abbreviation,Four times daily
+QHS,Abbreviation,At bedtime
+SOS,Abbreviation,If needed (once only)
+NOCTE,Abbreviation,At night
+MANE,Abbreviation,In the morning
+AD LIB,Abbreviation,As desired / freely
+PR,Abbreviation,Per rectum
+PV,Abbreviation,Per vaginum
+ID,Abbreviation,Intradermal
+TOP,Abbreviation,Topical / external use
+EXT,Abbreviation,Topical / external use
+INJ,Abbreviation,Injection
+NGT,Abbreviation,Nasogastric tube
+ET,Abbreviation,Endotracheal
+SYR,Abbreviation,Syrup
+SUSP,Abbreviation,Suspension
+SUPP,Abbreviation,Suppository
+OINT,Abbreviation,Ointment
+SOL,Abbreviation,Solution
+GTT,Abbreviation,Drops
+AMP,Abbreviation,Ampule
+VIAL,Abbreviation,Small sealed drug container
+ELIX,Abbreviation,Elixir
+PATCH,Abbreviation,Transdermal patch
+TD,Abbreviation,Transdermal patch
+TEMP,Abbreviation,Temperature
+SPO2,Abbreviation,Oxygen saturation
+BMI,Abbreviation,Body mass index
+I/O,Abbreviation,Intake/Output
+T1DM,Abbreviation,Type 1 diabetes mellitus
+T2DM,Abbreviation,Type 2 diabetes mellitus
+CAD,Abbreviation,Coronary artery disease
+CHF,Abbreviation,Congestive heart failure
+COPD,Abbreviation,Chronic obstructive pulmonary disease
+CKD,Abbreviation,Chronic kidney disease
+URI,Abbreviation,Upper respiratory infection
+GERD,Abbreviation,Gastroesophageal reflux disease
+AKI,Abbreviation,Acute kidney injury
+MI,Abbreviation,Myocardial infarction
+CVA,Abbreviation,Cerebrovascular accident (stroke)
+DVT,Abbreviation,Deep vein thrombosis
+PE,Abbreviation,Pulmonary embolism
+PNA,Abbreviation,Pneumonia
+FBS,Abbreviation,Fasting blood sugar
+LFT,Abbreviation,Liver function test
+RFT,Abbreviation,Renal/kidney function test
+KFT,Abbreviation,Renal/kidney function test
+ECG,Abbreviation,Electrocardiogram
+EKG,Abbreviation,Electrocardiogram
+CXR,Abbreviation,Chest X-ray
+USG,Abbreviation,Ultrasonography
+ABG,Abbreviation,Arterial blood gas
+ESR,Abbreviation,Erythrocyte sedimentation rate
+CRP,Abbreviation,C-reactive protein
+INR,Abbreviation,International normalized ratio
+SX,Abbreviation,Symptoms
+TX,Abbreviation,Treatment
+FX,Abbreviation,Fracture
+PMH,Abbreviation,Past medical history
+FH,Abbreviation,Family history
+SH,Abbreviation,Social history
+O/E,Abbreviation,On examination
+C/O,Abbreviation,Complains of
+NAD,Abbreviation,No abnormality detected
+WNL,Abbreviation,Within normal limits
+F/U,Abbreviation,Follow-up
+WT,Abbreviation,Weight
+HT,Abbreviation,Height
+D/C,Abbreviation,"Discharge (or discontinue -- ambiguous, flagged by ISMP)"
+ADV,Abbreviation,Advised
+BERA,Abbreviation,Brainstem Evoked Response Audiometry
+OAE,Abbreviation,Otoacoustic Emissions
+CT,Abbreviation,Computed Tomography
+MRI,Abbreviation,Magnetic Resonance Imaging
+HX,Abbreviation,History
+DX,Abbreviation,Diagnosis
+RX,Abbreviation,Prescription
+PSH,Abbreviation,Past surgical history
+REF,Abbreviation,Referred
+OPD,Abbreviation,Outpatient department
+IPD,Abbreviation,Inpatient department
+ER,Abbreviation,Emergency room/department
+ED,Abbreviation,Emergency room/department
+NKDA,Abbreviation,No known drug allergies
+NKA,Abbreviation,No known allergies
+S/P,Abbreviation,Status post
+LMP,Abbreviation,Last menstrual period
+AOG,Abbreviation,Age of gestation / Gestational age
+GA,Abbreviation,Age of gestation / Gestational age
+UTI,Abbreviation,Urinary tract infection
