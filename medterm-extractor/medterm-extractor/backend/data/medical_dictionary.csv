@@ -1,0 +1,226 @@
+term,category,meaning
+BIOGESIC,Drug,
+PARACETAMOL,Drug,
+AMOXICILLIN,Drug,
+AMOXICILLIN CLAVULANATE,Drug,
+CO-AMOXICLAV,Drug,
+CEFALEXIN,Drug,
+CEFIXIME,Drug,
+METRONIDAZOLE,Drug,
+CIPROFLOXACIN,Drug,
+AZITHROMYCIN,Drug,
+LOSARTAN,Drug,
+AMLODIPINE,Drug,
+METFORMIN,Drug,
+GLICLAZIDE,Drug,
+OMEPRAZOLE,Drug,
+RANITIDINE,Drug,
+LOPERAMIDE,Drug,
+CETIRIZINE,Drug,
+SALBUTAMOL,Drug,
+IBUPROFEN,Drug,
+MEFENAMIC ACID,Drug,
+ASCORBIC ACID,Drug,
+MULTIVITAMINS,Drug,
+FERROUS SULFATE,Drug,
+HYDROCORTISONE,Drug,
+PREDNISONE,Drug,
+INSULIN,Drug,
+CLINDAMYCIN,Drug,
+DICLOFENAC,Drug,
+TRAMADOL,Drug,
+250MG,Dosage,
+500MG,Dosage,
+1G,Dosage,
+5MG,Dosage,
+10MG,Dosage,
+20MG,Dosage,
+50MG,Dosage,
+100MG,Dosage,
+1 TAB,Dosage,
+2 TABS,Dosage,
+1 TSP,Dosage,
+5ML,Dosage,
+10ML,Dosage,
+1 CAP,Dosage,
+1 VIAL,Dosage,
+1 AMPULE,Dosage,
+OD,Abbreviation,Once a day
+BID,Abbreviation,Twice a day
+TID,Abbreviation,Three times a day
+QID,Abbreviation,Four times a day
+PRN,Abbreviation,As needed
+HS,Abbreviation,At bedtime
+AC,Abbreviation,Before meals
+PC,Abbreviation,After meals
+Q4H,Abbreviation,Every 4 hours
+Q6H,Abbreviation,Every 6 hours
+Q8H,Abbreviation,Every 8 hours
+Q12H,Abbreviation,Every 12 hours
+STAT,Abbreviation,Immediately
+NPO,Abbreviation,Nothing by mouth
+IM,Abbreviation,Intramuscular
+IV,Abbreviation,Intravenous
+PO,Abbreviation,By mouth
+SL,Abbreviation,Sublingual
+SC,Abbreviation,Subcutaneous
+TAB,Abbreviation,Tablet
+CAP,Abbreviation,Capsule
+SYP,Abbreviation,Syrup
+DAW,Abbreviation,Dispense as written
+FEVER,Treatment,
+COUGH,Treatment,
+COLD,Treatment,
+HYPERTENSION,Treatment,
+DIABETES,Treatment,
+INFECTION,Treatment,
+ASTHMA,Treatment,
+ALLERGY,Treatment,
+PAIN,Treatment,
+DIARRHEA,Treatment,
+GASTRITIS,Treatment,
+UTI,Treatment,
+PNEUMONIA,Treatment,
+NAUSEA,Treatment,
+INFLAMMATION,Treatment,
+ANEMIA,Treatment,
+IMOFLOX,Drug,
+DOLCET,Drug,
+CEFUROXIME,Drug,
+CEFUREX,Drug,
+CELECOXIB,Drug,
+AUBREX,Drug,
+AMOXIL,Drug,
+HIMOX,Drug,
+PONSTAN,Drug,
+DOMPERIDONE,Drug,
+HYOSCINE,Drug,
+LAGUNDI,Drug,
+SAMBONG,Drug,
+VITAMIN C,Drug,
+FLAGYL,Drug,
+DEXAMETHASONE,Drug,
+COTRIMOXAZOLE,Drug,
+CEPHALEXIN,Drug,
+ERYTHROMYCIN,Drug,
+AMOXICILLIN-CLAVULANATE,Drug,
+SULFAMETHOXAZOLE,Drug,
+TRIMETHOPRIM,Drug,
+AUGMENTIN,Drug,
+CURAM,Drug,
+CLAVAM,Drug,
+TEMPRA,Drug,
+CALPOL,Drug,
+DOLFENAL,Drug,
+ADVIL,Drug,
+MEDICOL,Drug,
+ALAXAN,Drug,
+SOLMUX,Drug,
+CARBOCISTEINE,Drug,
+ASCOF,Drug,
+DIATABS,Drug,
+LOPERAMIDE HCL,Drug,
+LOSARTAN POTASSIUM,Drug,
+AMLODIPINE BESYLATE,Drug,
+METFORMIN HYDROCHLORIDE,Drug,
+ATORVASTATIN,Drug,
+SIMVASTATIN,Drug,
+OMEPRAZOLE SODIUM,Drug,
+PANTOPRAZOLE,Drug,
+CETIRIZINE HYDROCHLORIDE,Drug,
+LORATADINE,Drug,
+FEXOFENADINE,Drug,
+SALBUTAMOL SULFATE,Drug,
+IPRATROPIUM,Drug,
+CLONIDINE,Drug,
+NIFEDIPINE,Drug,
+VALSARTAN,Drug,
+GLIBENCLAMIDE,Drug,
+GLIMEPIRIDE,Drug,
+FOLIC ACID,Drug,
+VITAMIN B COMPLEX,Drug,
+B-COMPLEX,Drug,
+200MG,Dosage,
+400MG,Dosage,
+1000MG,Dosage,
+2 CAPS,Dosage,
+2 TABLETS,Dosage,
+1 CAPSULE,Dosage,
+2 CAPSULES,Dosage,
+15ML,Dosage,
+500MG/TAB,Dosage,
+250MG/TAB,Dosage,
+500MG/CAP,Dosage,
+250MG/CAP,Dosage,
+200MG/CAP,Dosage,
+200MG/TAB,Dosage,
+ONCE A DAY,Frequency,
+TWICE A DAY,Frequency,
+THREE TIMES A DAY,Frequency,
+3X A DAY,Frequency,
+3X DAILY,Frequency,
+TWICE DAILY,Frequency,
+ONCE DAILY,Frequency,
+EVERY 8 HOURS,Frequency,
+EVERY 6 HOURS,Frequency,
+EVERY 12 HOURS,Frequency,
+EVERY DAY,Frequency,
+AS NEEDED,Frequency,
+AT BEDTIME,Frequency,
+BEFORE MEALS,Frequency,
+AFTER MEALS,Frequency,
+WITH MEALS,Frequency,
+AS NEEDED FOR PAIN,Frequency,
+FOR 7 DAYS,Frequency,
+FOR 5 DAYS,Frequency,
+FOR 3 DAYS,Frequency,
+SEVEN DAYS,Frequency,
+5 DAYS,Frequency,
+7 DAYS,Frequency,
+10 DAYS,Frequency,
+14 DAYS,Frequency,
+HTN,Abbreviation,Hypertension
+DM,Abbreviation,Diabetes mellitus
+URTI,Abbreviation,Upper respiratory tract infection
+BP,Abbreviation,Blood pressure
+HR,Abbreviation,Heart rate
+RR,Abbreviation,Respiratory rate
+CC,Abbreviation,Chief complaint
+HPI,Abbreviation,History of present illness
+PNDF,Abbreviation,Philippine National Drug Formulary
+DOH,Abbreviation,Department of Health
+PHIC,Abbreviation,Philhealth Insurance Corporation
+ORS,Abbreviation,Oral rehydration solution
+NDC,Abbreviation,National drug code
+RHU,Abbreviation,Rural health unit
+CHD,Abbreviation,Center for Health Development
+SQ,Abbreviation,Subcutaneous
+CBR,Abbreviation,Complete bed rest
+MBR,Abbreviation,Modified bed rest
+MDR,Abbreviation,Multi-drug resistant
+DOTS,Abbreviation,Directly observed treatment short-course
+TB,Abbreviation,Tuberculosis
+FPG,Abbreviation,Fasting plasma glucose
+RBS,Abbreviation,Random blood sugar
+CBC,Abbreviation,Complete blood count
+UA,Abbreviation,Urinalysis
+PT,Abbreviation,Patient
+COLD COMPRESS,Treatment,
+WARM COMPRESS,Treatment,
+HOT COMPRESS,Treatment,
+ICE PACK,Treatment,
+NEBULIZATION,Treatment,
+BED REST,Treatment,
+WOUND DRESSING,Treatment,
+SALINE GARGLE,Treatment,
+ORAL REHYDRATION THERAPY,Treatment,
+STEAM INHALATION,Treatment,
+SITZ BATH,Treatment,
+SPLINT,Treatment,
+ELEVATION,Treatment,
+PHYSICAL THERAPY,Treatment,
+FOLLOW UP,Treatment,
+REFERRAL,Treatment,
+1X A DAY,Frequency,
+2X A DAY,Frequency,
+4X A DAY,Frequency,
